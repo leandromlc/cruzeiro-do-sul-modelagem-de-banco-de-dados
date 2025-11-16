@@ -109,4 +109,4 @@ Para recriar este banco de dados em seu ambiente local (ex: MySQL Workbench):
 3.  **Popule o Banco de Dados:**
     Execute o conteúdo do arquivo `INSERTS.sql` para adicionar os dados de exemplo. A ordem de execução deste script é importante.
 4.  **Teste os Scripts:**
-    Execute os arquivos `SELECTS.sql` e `UPDATES_DELETES.sql` para consultar e manipular os dados no banco.
+    Execute os arquivos `SELECTS.sql`, `UPDATES.sql` e `DELETES.sql` para consultar e manipular os dados no banco.
